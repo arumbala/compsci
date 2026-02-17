@@ -1,0 +1,51 @@
+imdbId,title,releaseYear,releaseDate,genre,writers,actors,directors,sequel,hitFlop,budget,boxoffice
+tt0258396,Lagaan,2001,15-Jun-01,Drama,Ashutosh Gowariker,Aamir Khan,Ashutosh Gowariker,0,Hit,250000000,659000000
+tt0248126,Dil Chahta Hai,2001,10-Aug-01,Comedy,Farhan Akhtar,Aamir Khan,Farhan Akhtar,0,Hit,120000000,340000000
+tt0292490,Devdas,2002,12-Jul-02,Drama,Sanjay Leela Bhansali,Shah Rukh Khan,Sanjay Leela Bhansali,0,Hit,500000000,760000000
+tt0347473,Koi Mil Gaya,2003,8-Aug-03,Sci-Fi,Rakesh Roshan,Hrithik Roshan,Rakesh Roshan,0,Hit,300000000,520000000
+tt0386180,Krrish,2006,23-Jun-06,Action,Rakesh Roshan,Hrithik Roshan,Rakesh Roshan,1,Hit,450000000,1260000000
+tt0374887,Swades,2004,17-Dec-04,Drama,Ashutosh Gowariker,Shah Rukh Khan,Ashutosh Gowariker,0,Flop,400000000,345000000
+tt0312855,Munna Bhai M.B.B.S.,2003,19-Dec-03,Comedy,Rajkumar Hirani,Sanjay Dutt,Rajkumar Hirani,0,Hit,100000000,390000000
+tt0456144,Lage Raho Munna Bhai,2006,1-Sep-06,Comedy,Rajkumar Hirani,Sanjay Dutt,Rajkumar Hirani,1,Hit,200000000,1180000000
+tt0466460,Rang De Basanti,2006,26-Jan-06,Drama,Rakeysh Omprakash Mehra,Aamir Khan,Rakeysh Omprakash Mehra,0,Hit,250000000,920000000
+tt0374119,Dhoom,2004,27-Aug-04,Action,Vijay Krishna Acharya,John Abraham,Sanjay Gadhvi,0,Hit,200000000,560000000
+tt0493407,Dhoom 2,2006,24-Nov-06,Action,Vijay Krishna Acharya,Hrithik Roshan,Sanjay Gadhvi,1,Hit,350000000,1530000000
+tt1833673,Dhoom 3,2013,20-Dec-13,Action,Vijay Krishna Acharya,Aamir Khan,Vijay Krishna Acharya,1,Hit,1250000000,5840000000
+tt1187043,3 Idiots,2009,25-Dec-09,Comedy,Rajkumar Hirani,Aamir Khan,Rajkumar Hirani,0,Hit,550000000,3950000000
+tt1307797,Dabangg,2010,10-Sep-10,Action,Abhinav Kashyap,Salman Khan,Abhinav Kashyap,0,Hit,420000000,2140000000
+tt2094768,Dabangg 2,2012,21-Dec-12,Action,Arbaaz Khan,Salman Khan,Arbaaz Khan,1,Hit,650000000,2610000000
+tt1562872,Bodyguard,2011,31-Aug-11,Action,Siddique,Salman Khan,Siddique,0,Hit,600000000,2200000000
+tt2631186,Ek Tha Tiger,2012,15-Aug-12,Action,Kabir Khan,Salman Khan,Kabir Khan,0,Hit,750000000,3100000000
+tt1772254,Ghajini,2008,25-Dec-08,Thriller,A.R. Murugadoss,Aamir Khan,A.R. Murugadoss,0,Hit,500000000,1980000000
+tt1010048,Jab We Met,2007,26-Oct-07,Romance,Imtiaz Ali,Shahid Kapoor,Imtiaz Ali,0,Hit,110000000,510000000
+tt1242521,Om Shanti Om,2007,9-Nov-07,Drama,Farah Khan,Shah Rukh Khan,Farah Khan,0,Hit,350000000,1500000000
+tt1392214,Rab Ne Bana Di Jodi,2008,12-Dec-08,Romance,Aditya Chopra,Shah Rukh Khan,Aditya Chopra,0,Hit,600000000,1640000000
+tt1190536,My Name is Khan,2010,12-Feb-10,Drama,Karan Johar,Shah Rukh Khan,Karan Johar,0,Hit,500000000,1900000000
+tt2338151,Chennai Express,2013,8-Aug-13,Comedy,Rohit Shetty,Shah Rukh Khan,Rohit Shetty,0,Hit,750000000,3950000000
+tt0997072,Rock On,2008,29-Aug-08,Drama,Abhishek Kapoor,Farhan Akhtar,Abhishek Kapoor,0,Hit,110000000,390000000
+tt3495026,Rock On 2,2016,11-Nov-16,Drama,Shujaat Saudagar,Farhan Akhtar,Shujaat Saudagar,1,Flop,450000000,210000000
+tt2338567,PK,2014,19-Dec-14,Comedy,Rajkumar Hirani,Aamir Khan,Rajkumar Hirani,0,Hit,850000000,7920000000
+tt2631240,Bajrangi Bhaijaan,2015,17-Jul-15,Drama,Kabir Khan,Salman Khan,Kabir Khan,0,Hit,900000000,6260000000
+tt2088120,Barfi,2012,14-Sep-12,Romance,Anurag Basu,Ranbir Kapoor,Anurag Basu,0,Hit,300000000,1720000000
+tt3863552,Bajirao Mastani,2015,18-Dec-15,Drama,Sanjay Leela Bhansali,Ranveer Singh,Sanjay Leela Bhansali,0,Hit,1200000000,3400000000
+tt4538826,Dangal,2016,23-Dec-16,Drama,Nitesh Tiwari,Aamir Khan,Nitesh Tiwari,0,Hit,700000000,11000000000
+tt3741834,Dil Dhadakne Do,2015,5-Jun-15,Drama,Zoya Akhtar,Ranveer Singh,Zoya Akhtar,0,Flop,750000000,760000000
+tt5765232,Ae Dil Hai Mushkil,2016,28-Oct-16,Romance,Karan Johar,Ranbir Kapoor,Karan Johar,0,Hit,600000000,2300000000
+tt1954470,Zindagi Na Milegi Dobara,2011,15-Jul-11,Drama,Zoya Akhtar,Hrithik Roshan,Zoya Akhtar,0,Hit,350000000,1500000000
+tt1185420,Wanted,2009,18-Sep-09,Action,Prabhu Deva,Salman Khan,Prabhu Deva,0,Hit,250000000,840000000
+tt1954315,Agneepath,2012,26-Jan-12,Action,Karan Malhotra,Hrithik Roshan,Karan Malhotra,0,Hit,500000000,1650000000
+tt2402894,Yeh Jawaani Hai Deewani,2013,31-May-13,Romance,Ayan Mukerji,Ranbir Kapoor,Ayan Mukerji,0,Hit,500000000,3180000000
+tt2277860,Special 26,2013,8-Feb-13,Thriller,Neeraj Pandey,Akshay Kumar,Neeraj Pandey,0,Hit,300000000,1380000000
+tt1954406,Rowdy Rathore,2012,1-Jun-12,Action,Prabhu Deva,Akshay Kumar,Prabhu Deva,0,Hit,350000000,1850000000
+tt2396589,Holiday,2014,6-Jun-14,Action,A.R. Murugadoss,Akshay Kumar,A.R. Murugadoss,0,Hit,450000000,1700000000
+tt1649431,Ready,2011,3-Jun-11,Comedy,Anees Bazmee,Salman Khan,Anees Bazmee,0,Hit,350000000,2010000000
+tt2428578,Kick,2014,25-Jul-14,Action,Sajid Nadiadwala,Salman Khan,Sajid Nadiadwala,0,Hit,700000000,3820000000
+tt2347491,Bang Bang,2014,2-Oct-14,Action,Siddharth Anand,Hrithik Roshan,Siddharth Anand,0,Hit,900000000,2700000000
+tt2390174,Queen,2014,7-Mar-14,Comedy,Vikas Bahl,Kangana Ranaut,Vikas Bahl,0,Hit,150000000,970000000
+tt2717852,Gunday,2014,14-Feb-14,Action,Ali Abbas Zafar,Ranveer Singh,Ali Abbas Zafar,0,Flop,600000000,590000000
+tt0430784,Phir Hera Pheri,2006,9-Jun-06,Comedy,Neeraj Vora,Akshay Kumar,Neeraj Vora,1,Hit,200000000,640000000
+tt0419058,Hera Pheri,2000,31-Mar-00,Comedy,Priyadarshan,Akshay Kumar,Priyadarshan,0,Hit,70000000,310000000
+tt0423866,Veer-Zaara,2004,12-Nov-04,Romance,Yash Chopra,Shah Rukh Khan,Yash Chopra,0,Hit,350000000,950000000
+tt0489099,Kabhi Alvida Naa Kehna,2006,11-Aug-06,Drama,Karan Johar,Shah Rukh Khan,Karan Johar,0,Hit,350000000,840000000
+tt1212911,Paa,2009,4-Dec-09,Drama,R. Balki,Amitabh Bachchan,R. Balki,0,Hit,250000000,760000000
+tt1666185,Ra.One,2011,26-Oct-11,Sci-Fi,Anubhav Sinha,Shah Rukh Khan,Anubhav Sinha,0,Flop,1250000000,1700000000
