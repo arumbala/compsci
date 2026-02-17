@@ -8,11 +8,11 @@ import org.apache.spark.sql.SparkSession;
 import static org.apache.spark.sql.functions.*;
 
 // Spark Read a CSV, explore schema, and perform basic DataFrame operations.
-public class BollywoodMovieAnalysis {
+public class CSVMovieDataParsing {
 
     public static void main(String[] args) {
         SparkSession spark = SparkSession.builder()
-                .appName("BollywoodMovieAnalysis")
+                .appName("CSVMovieDataParsing")
                 .master("local[*]")
                 .getOrCreate();
 
@@ -23,7 +23,7 @@ public class BollywoodMovieAnalysis {
                 .format("csv")
                 .option("header", "true")
                 .option("inferSchema", "true")
-                .load("data/BollywoodMovieDetail.csv");
+                .load("data/MovieDetail.csv");
 
         // 2. Print schema
         movies.printSchema();
