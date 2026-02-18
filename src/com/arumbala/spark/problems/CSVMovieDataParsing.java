@@ -55,6 +55,9 @@ public class CSVMovieDataParsing {
         // 10. Add a new derived column
         movies.withColumn("isHit", col("hitFlop").equalTo("Hit")).show();
 
+        //11. Filter budget column
+        movies.filter("budget > 120000000").show();
+
         spark.stop();
     }
 }

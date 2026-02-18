@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Smallest Positive Integer (Codility - MissingInteger)
+ * Smallest Positive Integer (MissingInteger)
  *
  * Given an array A of N integers, returns the smallest positive integer
  * (greater than 0) that does not occur in A.
@@ -17,7 +17,7 @@ import java.util.Set;
  * Each element of array A is an integer within the range [-1,000,000..1,000,000]
  */
 public class SmallestPositiveNumber {
-     private static int getSmallestNumber(int nums[]){
+     private static int getSmallestNumber(int[] nums){
         Set<Integer> numSet = new HashSet<Integer>();
         for(int n : nums){
             numSet.add(n);
